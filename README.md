@@ -1,6 +1,5 @@
 Swetty Burst Privacy Statement
-Your privacy is important. Safeguard yourself with a secure VPN router.
-Sponsored
+Your privacy is important.
 
 What data does the Application collect and how is it used?
 
